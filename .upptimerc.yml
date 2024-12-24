@@ -209,7 +209,7 @@ status-website:
   # baseUrl: /your-repo-name
   baseUrl: /service-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Upptime!
   introTitle: "**디지털헤럴드 서비스 Uptime 모니터링 페이지**"
   
 
