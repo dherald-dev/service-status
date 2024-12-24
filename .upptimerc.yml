@@ -210,7 +210,7 @@ status-website:
   baseUrl: /service-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**디지털 헤럴드 서비스 Uptime 모니터링 페이지**"
+  introTitle: "**디지털헤럴드 서비스 Uptime 모니터링 페이지**"
   
 
 
