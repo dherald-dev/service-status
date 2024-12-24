@@ -1,36 +1,218 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: dHeraldDev # Your GitHub organization or username, where this repository lives
+repo: service-status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  # 이러닝
+  # 외대
+  - name: bfMBA Static
+    url: https://mk.bfmba.ac.kr/
+  - name: bfMBA Web
+    url: https://bfmba.ac.kr
+  - name: bfMBA LMS OLD
+    url: https://ajoumpamgr.dherald.com/
+  - name: bfMBA LMS NEW
+    url: https://lms.bfmba.ac.kr/
+
+  # iMBA
+  - name: iMBA Web
+    url: https://www.hufsimba.ac.kr/
+  - name: iMBA LMS
+    url: https://lms.hufsimba.ac.kr/
+
+  #Ajoumpa
+  - name: Ajoumpa Web
+    url: https://ajoumpa.ac.kr
+  - name: Ajoumpa LMS OLD
+    url: https://ajoumpamgr.dherald.com/
+  - name: Ajoumpa LMS New
+    url: https://ajoumpamgr2.dherald.com/
+  - name: Ajoumpa LMS Cooperate
+    url: https://ajoumpaco.dherald.com/
+  - name: Ajoumpa LMS Tutor
+    url: https://ajoumpatutor.dherald.com/
+
+  # SHAPE
+  - name: SHAPE Web
+    url: https://sogang.dherald.com/
+  - name: SHAPE LMS
+    url: https://sogangmgr2.dherald.com/
+  - name: SHAPE Tutor
+    url: https://sogangmgr2.dherald.com/
+
+  # 학생기자단
+  # 인사이트
+  - name: Insight Web
+    url: https://www.heraldinsight.co.kr/
+  - name: Insight Apply
+    url: https://heraldapply.com/
+  - name: Insight LMS
+    url: https://lms.heraldapply.com/
+
+
+  # 투머로우
+  - name: Tomorrow Web
+    url: https://heraldtomorrow.com/
+
+  #투머로우 USA
+  - name: Tomorrow USA Apply
+    url: https://apply.heraldtomorrow.com/
+  - name: Tomorrow USA LMS
+    url: https://lms.heraldtomorrow.com/
+
+  #투머로우 CANADA
+  - name: Tomorrow Canada Apply
+    url: https://applycanada.heraldtomorrow.com/
+  - name: Tomorrow Canada LMS
+    url: https://lmsca.heraldtomorrow.com/
+    
+  # 마스터
+  # 프렌치
+  - name: FrenchMaster Web
+    url: https://frenchmaster.co.kr/
+  - name: FrenchMaster LMS
+    url: https://lms.frenchmaster.co.kr/main
+  # 스패니시
+  - name: SpanishMaster Web
+    url: https://spanishmaster.co.kr/
+  - name: SpanishMaster LMS
+    url: https://lms.spanishmaster.co.kr/login
+  # 재패니즈
+  - name: JapaneseMaster Web
+    url: https://japanesemaster.co.kr/
+  - name: JapaneseMaster LMS
+    url: https://lms.japanesemaster.co.kr/
+
+  # HIS
+  # PREP
+  - name: HIS PREP Web
+    url: https://hisprep.co.kr/
+  - name: HIS PREP LMS
+    url: https://lms.hisprep.co.kr/
+  - name: HIS PREP SAT
+    url: https://sat.hisprep.co.kr/
+
+  # Academy
+  - name: HIS Academy Web
+    url: http://hisacademy.co.kr/
+  - name: HIS Academy LMS
+    url: https://admin-dev.hisacademy.co.kr/sub1000
+  - name: HIS Academy LMS Web
+    url: https://lms.hisacademy.co.kr/
+  - name: HIS Academy Staff LMS
+    url: https://staff.hisacademy.co.kr/
+  - name: HIS Academy Admin Asset
+    url: https://static.hisacademy.co.kr/
+  - name: HIS Academy SAT
+    url: https://apinfo.hisacademy.co.kr/
+  
+  # 어학원
+  # 어학원
+  - name: Herald Study Web
+    url: https://heraldstudy.com/
+  - name: Herald Study LMS
+    url: https://lms.heraldstudy.com/
+
+  # PTEA 센터
+  - name: PTEA Web
+    url: https://herald.ptea.co.kr/
+  - name: PTEA Mobile
+    url: http://m.ptea.co.kr/
+  - name: PTEA LMS
+    url: https://lms.ptea.co.kr/
+
+  # 통대닷컴
+  - name: Tongdae Web
+    url: https://tongdae.com/
+  - name: Tongdae Mobile
+    url: https://m.tongdae.com/
+
+  # 통번역 센터
+  - name: Herald Trans Web
+    url: https://heraldtrans.com/
+  - name: Herald Trans LMS
+    url: https://intra.heraldtrans.com/third/KHTMS.asp
+  - name: Herald Trans LMS2
+    url: https://intra2.heraldtrans.com/
+
+  # Herald Essay
+  - name: Herald Essay
+    url: https://heraldessay.com/
+
+  # GED PASS
+  - name: GED PASS Web
+    url: https://gedpass.co.kr/
+  - name: GED PASS LMS
+    url: https://lms.gedpass.co.kr/
+
+  # 헤럴드 컨설팅
+  - name: Herald Consulting Web
+    url: https://heraldconsulting.co.kr/
+  - name: Herald Consulting LMS
+    url: https://lms.heraldconsulting.co.kr/
+
+  # PTE PASS
+  - name: PTE PASS Web
+    url: https://www.ptepass.co.kr/
+  - name: PTE PASS LMS
+    url: http://lms.ptepass.co.kr
+
+  # Herald Campus
+  - name: Herald Campus Web
+    url: https://heraldcampus.com/
+  - name: Herald Campus LMS
+    url: https://lms.heraldcampus.com/
+
+  # DHerald
+  # 소개 페이지
+  - name: Herald Company Web
+    url: https://dherald.com/
+
+  # Herald Ai
+  - name: Herald AI
+    url: https://dherald.ai/
+
+  # 해외취업센터
+  - name: Herald Job
+    url: https://heraldjob.com/
+
+  # Study Battle
+  - name: Study Battle Web
+    url: https://studybattle.com/
+
+  # Spot DTX
+  - name: Spot DTX Web
+    url: https://spotdtx.dherald.com/
+  - name: Spot DTX LMS
+    url: https://spotdtxlms.dherald.com/auth
+
+  # ETC
+  # 결제 시스템
+  - name: DHerald Payment LMS 
+    url: https://paylms.dherald.com/
+  - name: DHerald Payment
+    url: https://pay.dherald.com
+
+  # - name: Google
+  #   url: https://www.google.com
+  # - name: Wikipedia
+  #   url: https://en.wikipedia.org
+  # - name: Hacker News
+  #   url: https://news.ycombinator.com
+  # - name: Test Broken Site
+  #   url: https://thissitedoesnotexist.koj.co
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
   # baseUrl: /your-repo-name
+  baseUrl: /service-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  introTitle: "**디지털 헤럴드 서비스 Uptime 모니터링 페이지**"
+  
+
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
