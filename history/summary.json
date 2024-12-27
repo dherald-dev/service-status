@@ -580,18 +580,20 @@
     "url": "https://admin-dev.hisacademy.co.kr/sub1000",
     "icon": "https://icons.duckduckgo.com/ip3/admin-dev.hisacademy.co.kr.ico",
     "slug": "his-academy-lms",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 837,
     "timeDay": 882,
     "timeWeek": 837,
     "timeMonth": 837,
     "timeYear": 837,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-27": 1
+    }
   },
   {
     "name": "HIS Academy LMS Web",
@@ -1019,7 +1021,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 756,
-    "timeDay": 676,
+    "timeDay": 886,
     "timeWeek": 756,
     "timeMonth": 756,
     "timeYear": 756,
