@@ -256,10 +256,10 @@
     "url": "https://www.heraldinsight.co.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.heraldinsight.co.kr.ico",
     "slug": "insight-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2158,
@@ -267,7 +267,9 @@
     "timeWeek": 1988,
     "timeMonth": 2158,
     "timeYear": 2158,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-12": 1
+    }
   },
   {
     "name": "Insight Apply",
@@ -581,11 +583,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin-dev.hisacademy.co.kr.ico",
     "slug": "his-academy-lms",
     "status": "up",
-    "uptime": "98.90%",
+    "uptime": "98.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.90%",
-    "uptimeYear": "98.90%",
+    "uptimeMonth": "98.95%",
+    "uptimeYear": "98.95%",
     "time": 818,
     "timeDay": 913,
     "timeWeek": 790,
