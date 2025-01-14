@@ -274,10 +274,10 @@
     "url": "https://heraldapply.com/",
     "icon": "https://icons.duckduckgo.com/ip3/heraldapply.com.ico",
     "slug": "insight-apply",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 780,
@@ -285,7 +285,9 @@
     "timeWeek": 779,
     "timeMonth": 780,
     "timeYear": 780,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-14": 1
+    }
   },
   {
     "name": "Insight LMS",
@@ -581,11 +583,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin-dev.hisacademy.co.kr.ico",
     "slug": "his-academy-lms",
     "status": "up",
-    "uptime": "99.00%",
+    "uptime": "99.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.00%",
-    "uptimeYear": "99.00%",
+    "uptimeMonth": "99.03%",
+    "uptimeYear": "99.03%",
     "time": 815,
     "timeDay": 714,
     "timeWeek": 806,
