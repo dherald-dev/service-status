@@ -275,18 +275,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/heraldapply.com.ico",
     "slug": "insight-apply",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.67%",
+    "uptimeDay": "92.97%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
     "time": 780,
     "timeDay": 693,
     "timeWeek": 779,
     "timeMonth": 780,
     "timeYear": 780,
     "dailyMinutesDown": {
-      "2025-01-14": 1
+      "2025-01-14": 101
     }
   },
   {
@@ -294,10 +294,10 @@
     "url": "https://lms.heraldapply.com/",
     "icon": "https://icons.duckduckgo.com/ip3/lms.heraldapply.com.ico",
     "slug": "insight-lms",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 584,
@@ -305,7 +305,9 @@
     "timeWeek": 564,
     "timeMonth": 584,
     "timeYear": 584,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-14": 1
+    }
   },
   {
     "name": "Tomorrow Web",
@@ -855,10 +857,10 @@
     "url": "https://heraldessay.com/",
     "icon": "https://icons.duckduckgo.com/ip3/heraldessay.com.ico",
     "slug": "herald-essay",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 798,
@@ -866,7 +868,9 @@
     "timeWeek": 824,
     "timeMonth": 798,
     "timeYear": 798,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-14": 1
+    }
   },
   {
     "name": "GED PASS Web",
