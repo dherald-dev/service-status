@@ -274,19 +274,19 @@
     "url": "https://heraldapply.com/",
     "icon": "https://icons.duckduckgo.com/ip3/heraldapply.com.ico",
     "slug": "insight-apply",
-    "status": "down",
-    "uptime": "99.62%",
-    "uptimeDay": "91.89%",
-    "uptimeWeek": "98.84%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.62%",
-    "time": 780,
-    "timeDay": 693,
-    "timeWeek": 779,
-    "timeMonth": 780,
-    "timeYear": 780,
+    "status": "up",
+    "uptime": "99.53%",
+    "uptimeDay": "89.94%",
+    "uptimeWeek": "98.56%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.53%",
+    "time": 776,
+    "timeDay": 680,
+    "timeWeek": 765,
+    "timeMonth": 776,
+    "timeYear": 776,
     "dailyMinutesDown": {
-      "2025-01-14": 117
+      "2025-01-14": 145
     }
   },
   {
@@ -910,19 +910,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/heraldconsulting.co.kr.ico",
     "slug": "herald-consulting-web",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 870,
     "timeDay": 705,
     "timeWeek": 823,
     "timeMonth": 870,
     "timeYear": 870,
-    "dailyMinutesDown": {
-      "2025-01-14": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Herald Consulting LMS",
@@ -930,19 +928,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/lms.heraldconsulting.co.kr.ico",
     "slug": "herald-consulting-lms",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 715,
     "timeDay": 607,
     "timeWeek": 675,
     "timeMonth": 715,
     "timeYear": 715,
-    "dailyMinutesDown": {
-      "2025-01-14": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "PTE PASS Web",
@@ -1094,19 +1090,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/spotdtx.dherald.com.ico",
     "slug": "spot-dtx-web",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 573,
     "timeDay": 472,
     "timeWeek": 556,
     "timeMonth": 573,
     "timeYear": 573,
-    "dailyMinutesDown": {
-      "2025-01-14": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Spot DTX LMS",
@@ -1114,19 +1108,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/spotdtxlms.dherald.com.ico",
     "slug": "spot-dtx-lms",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 759,
     "timeDay": 463,
     "timeWeek": 1162,
     "timeMonth": 759,
     "timeYear": 759,
-    "dailyMinutesDown": {
-      "2025-01-14": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DHerald Payment LMS",
