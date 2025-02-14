@@ -205,19 +205,19 @@
     "url": "https://sogang.dherald.com/",
     "icon": "https://icons.duckduckgo.com/ip3/sogang.dherald.com.ico",
     "slug": "shape-web",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 887,
-    "timeDay": 672,
-    "timeWeek": 784,
-    "timeMonth": 865,
-    "timeYear": 887,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 888,
+    "timeDay": 756,
+    "timeWeek": 800,
+    "timeMonth": 866,
+    "timeYear": 888,
     "dailyMinutesDown": {
-      "2025-02-14": 1
+      "2025-02-14": 7
     }
   },
   {
