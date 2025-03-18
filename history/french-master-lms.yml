@@ -1,7 +1,7 @@
 url: https://lms.frenchmaster.co.kr/main
-status: up
-code: 200
-responseTime: 998
-lastUpdated: 2025-03-18T06:31:45.963Z
+status: down
+code: 500
+responseTime: 946
+lastUpdated: 2025-03-18T08:43:56.776Z
 startTime: 2024-12-24T08:41:39.028Z
 generator: Upptime <https://github.com/upptime/upptime>
