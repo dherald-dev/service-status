@@ -20,6 +20,12 @@ sites:
   - name: iMBA LMS
     url: https://lms.hufsimba.ac.kr/
 
+  # 한국외대 국제처 모집 사이트
+  - name: iMBA APPLY
+    url: https://apply.hufsintlgrad.ac.kr/
+  - name: iMBA APPLY_LMS
+    url: https://apply-lms.hufsintlgrad.ac.kr/
+
   #Ajoumpa
   - name: Ajoumpa Web
     url: https://ajoumpa.ac.kr
