@@ -53,6 +53,8 @@ sites:
   # 투머로우
   - name: Tomorrow Web
     url: https://heraldtomorrow.com/
+  - name: Tomorrow LMS
+    url: https://lms.heraldtomorrow.com/
 
   #투머로우 USA
   - name: Tomorrow USA Apply
@@ -170,7 +172,7 @@ sites:
 
   # Herald Ai
   - name: Herald AI
-    url: https://dherald.ai/
+    url: https://ai.dherald.com/
 
   # 해외취업센터
   - name: Herald Job
