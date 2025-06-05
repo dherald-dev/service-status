@@ -858,19 +858,19 @@
     "url": "https://m.tongdae.com/",
     "icon": "https://icons.duckduckgo.com/ip3/m.tongdae.com.ico",
     "slug": "tongdae-mobile",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 278,
-    "timeDay": 357,
-    "timeWeek": 300,
-    "timeMonth": 280,
+    "timeDay": 302,
+    "timeWeek": 293,
+    "timeMonth": 279,
     "timeYear": 278,
     "dailyMinutesDown": {
-      "2025-06-05": 1
+      "2025-06-05": 19
     }
   },
   {
