@@ -1144,19 +1144,19 @@
     "url": "https://heraldjob.com/",
     "icon": "https://icons.duckduckgo.com/ip3/heraldjob.com.ico",
     "slug": "herald-job",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "96.77%",
-    "uptimeWeek": "99.54%",
+    "uptimeDay": "96.70%",
+    "uptimeWeek": "99.53%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
-    "time": 321,
-    "timeDay": 3933,
-    "timeWeek": 1485,
-    "timeMonth": 593,
-    "timeYear": 321,
+    "time": 322,
+    "timeDay": 3078,
+    "timeWeek": 1388,
+    "timeMonth": 591,
+    "timeYear": 322,
     "dailyMinutesDown": {
-      "2025-06-12": 47
+      "2025-06-12": 48
     }
   },
   {
