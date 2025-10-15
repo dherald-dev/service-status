@@ -143,33 +143,17 @@ sites:
   - name: Herald Trans LMS2
     url: https://intra2.heraldtrans.com/
 
-  # Herald Essay
-  - name: Herald Essay
-    url: https://heraldessay.com/
-
   # GED PASS
   - name: GED PASS Web
     url: https://gedpass.co.kr/
   - name: GED PASS LMS
     url: https://lms.gedpass.co.kr/
 
-  # 헤럴드 컨설팅
-  - name: Herald Consulting Web
-    url: https://heraldconsulting.co.kr/
-  - name: Herald Consulting LMS
-    url: https://lms.heraldconsulting.co.kr/
-
   # PTE PASS
   - name: PTE PASS Web
     url: https://www.ptepass.co.kr/
   - name: PTE PASS LMS
     url: http://lms.ptepass.co.kr
-
-  # Herald Campus
-  - name: Herald Campus Web
-    url: https://heraldcampus.com/
-  - name: Herald Campus LMS
-    url: https://lms.heraldcampus.com/
 
   # DHerald
   # 소개 페이지
@@ -179,14 +163,6 @@ sites:
   # Herald Ai
   - name: Herald AI
     url: https://ai.dherald.com/
-
-  # 해외취업센터
-  - name: Herald Job
-    url: https://heraldjob.com/
-
-  # Study Battle
-  - name: Study Battle Web
-    url: https://studybattle.com/
 
   # Spot DTX
   - name: Spot DTX Web
