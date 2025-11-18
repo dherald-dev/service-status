@@ -4,19 +4,19 @@
     "url": "https://mk.bfmba.ac.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/mk.bfmba.ac.kr.ico",
     "slug": "bf-mba-static",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 366,
-    "timeDay": 240,
-    "timeWeek": 331,
-    "timeMonth": 355,
+    "timeDay": 264,
+    "timeWeek": 329,
+    "timeMonth": 354,
     "timeYear": 366,
     "dailyMinutesDown": {
-      "2025-11-18": 1
+      "2025-11-18": 14
     }
   },
   {
@@ -853,19 +853,19 @@
     "url": "https://static.hisacademy.co.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/static.hisacademy.co.kr.ico",
     "slug": "his-academy-admin-asset",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 282,
-    "timeDay": 229,
-    "timeWeek": 213,
-    "timeMonth": 228,
+    "timeDay": 256,
+    "timeWeek": 224,
+    "timeMonth": 231,
     "timeYear": 282,
     "dailyMinutesDown": {
-      "2025-11-18": 1
+      "2025-11-18": 14
     }
   },
   {
@@ -1018,19 +1018,19 @@
     "url": "https://m.tongdae.com/",
     "icon": "https://icons.duckduckgo.com/ip3/m.tongdae.com.ico",
     "slug": "tongdae-mobile",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
     "time": 291,
-    "timeDay": 255,
-    "timeWeek": 313,
-    "timeMonth": 313,
+    "timeDay": 285,
+    "timeWeek": 316,
+    "timeMonth": 314,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2025-11-18": 1,
+      "2025-11-18": 14,
       "2025-08-30": 66,
       "2025-06-05": 19
     }
