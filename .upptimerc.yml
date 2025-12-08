@@ -164,12 +164,6 @@ sites:
   - name: Herald AI
     url: https://ai.dherald.com/
 
-  # Spot DTX
-  - name: Spot DTX Web
-    url: https://spotdtx.dherald.com/
-  - name: Spot DTX LMS
-    url: https://spotdtxlms.dherald.com/auth
-
   # ETC
   # 결제 시스템
   - name: DHerald Payment LMS 
@@ -177,14 +171,6 @@ sites:
   - name: DHerald Payment
     url: https://pay.dherald.com
 
-  # - name: Google
-  #   url: https://www.google.com
-  # - name: Wikipedia
-  #   url: https://en.wikipedia.org
-  # - name: Hacker News
-  #   url: https://news.ycombinator.com
-  # - name: Test Broken Site
-  #   url: https://thissitedoesnotexist.koj.co
 
 
 status-website:
