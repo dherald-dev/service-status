@@ -1,7 +1,7 @@
 url: https://gedpass.co.kr/
-status: up
-code: 200
-responseTime: 1107
-lastUpdated: 2026-02-12T23:30:02.468Z
+status: down
+code: 500
+responseTime: 927
+lastUpdated: 2026-02-13T15:07:59.957Z
 startTime: 2024-12-24T08:42:12.219Z
 generator: Upptime <https://github.com/upptime/upptime>
