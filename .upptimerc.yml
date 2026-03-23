@@ -132,8 +132,6 @@ sites:
   # 통대닷컴
   - name: Tongdae Web
     url: https://tongdae.com/
-  - name: Tongdae Mobile
-    url: https://m.tongdae.com/
 
   # 통번역 센터
   - name: Herald Trans Web
