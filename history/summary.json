@@ -426,12 +426,12 @@
     "url": "https://heraldapply.com/",
     "icon": "https://icons.duckduckgo.com/ip3/heraldapply.com.ico",
     "slug": "insight-apply",
-    "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "96.78%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.90%",
     "time": 779,
     "timeDay": 569,
     "timeWeek": 695,
@@ -440,7 +440,8 @@
     "dailyMinutesDown": {
       "2025-11-12": 203,
       "2025-11-21": 15,
-      "2025-11-30": 241
+      "2025-11-30": 241,
+      "2026-07-26": 46
     }
   },
   {
@@ -448,12 +449,12 @@
     "url": "https://lms.heraldapply.com/",
     "icon": "https://icons.duckduckgo.com/ip3/lms.heraldapply.com.ico",
     "slug": "insight-lms",
-    "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.65%",
+    "status": "down",
+    "uptime": "99.77%",
+    "uptimeDay": "97.13%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.64%",
     "time": 585,
     "timeDay": 429,
     "timeWeek": 525,
@@ -464,7 +465,8 @@
       "2025-11-21": 15,
       "2025-11-30": 241,
       "2026-06-16": 1044,
-      "2026-06-15": 349
+      "2026-06-15": 349,
+      "2026-07-26": 41
     }
   },
   {
@@ -472,13 +474,13 @@
     "url": "https://heraldtomorrow.com/",
     "icon": "https://icons.duckduckgo.com/ip3/heraldtomorrow.com.ico",
     "slug": "tomorrow-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.58%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.93%",
-    "time": 776,
+    "uptimeDay": "97.47%",
+    "uptimeWeek": "98.22%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.92%",
+    "time": 775,
     "timeDay": 292,
     "timeWeek": 675,
     "timeMonth": 737,
@@ -488,7 +490,8 @@
       "2026-01-06": 27,
       "2026-03-10": 41,
       "2026-03-13": 102,
-      "2026-07-20": 143
+      "2026-07-20": 143,
+      "2026-07-26": 36
     }
   },
   {
@@ -496,20 +499,21 @@
     "url": "https://lms.heraldtomorrow.com/",
     "icon": "https://icons.duckduckgo.com/ip3/lms.heraldtomorrow.com.ico",
     "slug": "tomorrow-lms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.58%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.96%",
-    "time": 618,
+    "uptimeDay": "97.81%",
+    "uptimeWeek": "98.27%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.95%",
+    "time": 619,
     "timeDay": 156,
     "timeWeek": 527,
     "timeMonth": 589,
     "timeYear": 617,
     "dailyMinutesDown": {
       "2025-08-28": 66,
-      "2026-07-20": 143
+      "2026-07-20": 143,
+      "2026-07-26": 31
     }
   },
   {
@@ -517,13 +521,13 @@
     "url": "https://apply.heraldtomorrow.com/",
     "icon": "https://icons.duckduckgo.com/ip3/apply.heraldtomorrow.com.ico",
     "slug": "tomorrow-usa-apply",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.59%",
-    "uptimeMonth": "99.67%",
+    "uptimeDay": "98.16%",
+    "uptimeWeek": "98.32%",
+    "uptimeMonth": "99.61%",
     "uptimeYear": "99.95%",
-    "time": 588,
+    "time": 587,
     "timeDay": 168,
     "timeWeek": 618,
     "timeMonth": 570,
@@ -531,7 +535,8 @@
     "dailyMinutesDown": {
       "2025-08-28": 65,
       "2026-03-10": 40,
-      "2026-07-20": 143
+      "2026-07-20": 143,
+      "2026-07-26": 27
     }
   },
   {
@@ -539,20 +544,21 @@
     "url": "https://lms.heraldtomorrow.com/",
     "icon": "https://icons.duckduckgo.com/ip3/lms.heraldtomorrow.com.ico",
     "slug": "tomorrow-usa-lms",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.59%",
-    "uptimeMonth": "99.68%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "98.37%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "99.96%",
-    "time": 107,
+    "time": 108,
     "timeDay": 165,
     "timeWeek": 268,
     "timeMonth": 370,
     "timeYear": 126,
     "dailyMinutesDown": {
       "2025-08-28": 65,
-      "2026-07-20": 142
+      "2026-07-20": 142,
+      "2026-07-26": 22
     }
   },
   {
@@ -560,11 +566,11 @@
     "url": "https://applycanada.heraldtomorrow.com/",
     "icon": "https://icons.duckduckgo.com/ip3/applycanada.heraldtomorrow.com.ico",
     "slug": "tomorrow-canada-apply",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.94%",
     "time": 623,
     "timeDay": 235,
@@ -575,7 +581,8 @@
       "2025-08-28": 64,
       "2026-03-10": 40,
       "2026-03-13": 88,
-      "2026-03-14": 132
+      "2026-03-14": 132,
+      "2026-07-26": 17
     }
   },
   {
@@ -583,20 +590,21 @@
     "url": "https://lmsca.heraldtomorrow.com/",
     "icon": "https://icons.duckduckgo.com/ip3/lmsca.heraldtomorrow.com.ico",
     "slug": "tomorrow-canada-lms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
-    "time": 534,
+    "time": 535,
     "timeDay": 219,
     "timeWeek": 440,
     "timeMonth": 524,
     "timeYear": 534,
     "dailyMinutesDown": {
       "2025-08-28": 63,
-      "2026-03-10": 39
+      "2026-03-10": 39,
+      "2026-07-26": 12
     }
   },
   {
@@ -816,11 +824,11 @@
     "url": "https://admin-dev.hisacademy.co.kr/sub1000",
     "icon": "https://icons.duckduckgo.com/ip3/admin-dev.hisacademy.co.kr.ico",
     "slug": "his-academy-lms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.09%",
     "time": 845,
     "timeDay": 677,
@@ -838,7 +846,8 @@
       "2026-04-06": 208,
       "2026-04-05": 1440,
       "2026-04-04": 1440,
-      "2026-04-03": 396
+      "2026-04-03": 396,
+      "2026-07-26": 7
     }
   },
   {
@@ -1256,11 +1265,11 @@
     "url": "https://ai.dherald.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ai.dherald.com.ico",
     "slug": "herald-ai",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 239,
     "timeDay": 40,
@@ -1268,7 +1277,8 @@
     "timeMonth": 211,
     "timeYear": 240,
     "dailyMinutesDown": {
-      "2025-11-05": 15
+      "2025-11-05": 15,
+      "2026-07-26": 2
     }
   },
   {
