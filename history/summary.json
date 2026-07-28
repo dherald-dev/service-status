@@ -372,9 +372,9 @@
     "slug": "insight-web",
     "status": "down",
     "uptime": "98.85%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.68%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.67%",
     "uptimeYear": "98.21%",
     "time": 2271,
     "timeDay": 1673,
@@ -419,7 +419,7 @@
       "2026-06-16": 3,
       "2026-07-05": 86,
       "2026-07-18": 55,
-      "2026-07-28": 2
+      "2026-07-28": 5
     }
   },
   {
