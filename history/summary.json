@@ -91,7 +91,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hufsimba.ac.kr.ico",
     "slug": "i-mba-web",
     "status": "up",
-    "uptime": "99.10%",
+    "uptime": "99.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -370,13 +370,13 @@
     "url": "https://www.heraldinsight.co.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.heraldinsight.co.kr.ico",
     "slug": "insight-web",
-    "status": "up",
+    "status": "down",
     "uptime": "98.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.33%",
-    "uptimeMonth": "99.07%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "97.26%",
+    "uptimeMonth": "99.05%",
     "uptimeYear": "98.16%",
-    "time": 2267,
+    "time": 2268,
     "timeDay": 1506,
     "timeWeek": 1705,
     "timeMonth": 2004,
@@ -420,7 +420,8 @@
       "2026-07-05": 86,
       "2026-07-18": 55,
       "2026-07-28": 190,
-      "2026-07-29": 79
+      "2026-07-29": 79,
+      "2026-07-31": 8
     }
   },
   {
