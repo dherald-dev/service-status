@@ -308,17 +308,17 @@
     "url": "https://www.heraldinsight.co.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.heraldinsight.co.kr.ico",
     "slug": "insight-web",
-    "status": "up",
+    "status": "down",
     "uptime": "98.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.08%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.07%",
     "uptimeYear": "98.15%",
-    "time": 2259,
-    "timeDay": 1475,
-    "timeWeek": 2002,
-    "timeMonth": 1891,
-    "timeYear": 2261,
+    "time": 2257,
+    "timeDay": 1345,
+    "timeWeek": 1924,
+    "timeMonth": 1873,
+    "timeYear": 2259,
     "dailyMinutesDown": {
       "2025-09-15": 24,
       "2025-09-18": 33,
@@ -358,7 +358,8 @@
       "2026-07-28": 190,
       "2026-07-29": 79,
       "2026-07-31": 102,
-      "2026-08-13": 34
+      "2026-08-13": 34,
+      "2026-08-20": 2
     }
   },
   {
