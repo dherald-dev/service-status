@@ -733,11 +733,11 @@
     "url": "https://admin-dev.hisacademy.co.kr/sub1000",
     "icon": "https://icons.duckduckgo.com/ip3/admin-dev.hisacademy.co.kr.ico",
     "slug": "his-academy-lms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.30%",
     "time": 854,
     "timeDay": 784,
@@ -750,7 +750,8 @@
       "2026-04-05": 1440,
       "2026-04-04": 1440,
       "2026-04-03": 396,
-      "2026-07-26": 111
+      "2026-07-26": 111,
+      "2026-11-05": 2
     }
   },
   {
@@ -1055,11 +1056,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ptepass.co.kr.ico",
     "slug": "pte-pass-web",
     "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.82%",
+    "uptimeDay": "45.43%",
+    "uptimeWeek": "92.20%",
+    "uptimeMonth": "98.21%",
+    "uptimeYear": "99.83%",
     "time": 736,
     "timeDay": 604,
     "timeWeek": 578,
@@ -1067,7 +1068,7 @@
     "timeYear": 687,
     "dailyMinutesDown": {
       "2026-03-10": 111,
-      "2026-11-05": 3
+      "2026-11-05": 786
     }
   },
   {
